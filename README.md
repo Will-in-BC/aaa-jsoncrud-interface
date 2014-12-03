@@ -1,4 +1,4 @@
-aaa-form-controls
+aaa-jsoncrud-interface
 ============
 
 A Polymer component that provides a simple ajax json message passing interface to a backend server to perform CRUD operations. 
