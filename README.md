@@ -1,7 +1,7 @@
 aaa-jsoncrud-interface
 ============
 
-A Polymer component that provides a simple ajax json message passing interface to a backend server to perform CRUD operations. 
+A Polymer element that provides a simple ajax json message passing interface to a backend server to perform CRUD operations. 
 An emulation facility is provided so that no backend is required. 
 
 A sample PHP mysql backend is provided (in addition to emulation) -- to use this you will require a PHP mysql environemnt,
